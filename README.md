@@ -19,5 +19,5 @@ python detect_face_parts.py --shape-predictor shape_predictor_68_face_landmarks.
 ```
 ## Results
 
-![Alt]("results/face0_mouth.png")
+![Alt](results/face0_mouth.png)
 
