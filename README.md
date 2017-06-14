@@ -29,3 +29,4 @@ python detect_face_parts.py --shape-predictor shape_predictor_68_face_landmarks.
 ![Alt](results/face4_left_eye.png)
 
 
+#### Credits: My Guru- Adrian Rosebrock
